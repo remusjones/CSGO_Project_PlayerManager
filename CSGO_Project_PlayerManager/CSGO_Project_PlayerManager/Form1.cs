@@ -1,6 +1,6 @@
 ﻿/* Template: http://forums.dotnetfoundation.org/t/file-headers-and-copyright-statements/1276
  * Copyright (c) .NET Foundation. All rights reserved.  
- * Licensed under the MIT License. See LICENSE file in the project root for full license information.  
+ * Licensed under the Apache License. See LICENSE file in the project root for full license information.  
  * 
  * This is the official list of the CSGO_Project_PlayerManager project contributors.
  * Names of the original copyright holders (individuals or organizations)
